@@ -1,0 +1,11 @@
+Ticker,Description,Asset Class,Asset Sub Class,EcoRisk,IRRisk,MarketHedge,InflationHedge,Shares
+MUB,iShares National Muni Bond ETF,Bond ETF,Municipal Bond,N,Y,N,N,250
+ADP,Automatic Data Processing,Stock,Equity Industry,N,N,N,N,120
+GOOG,Alphabet Inc.,Stock,Equity Tech,Y,N,N,N,200
+IBM,International Business Machines,Stock,Equity Tech,Y,N,N,N,350
+TLT,iShares 20+ Year Treasury Bond ETF,Bond ETF,Treasury Bond,N,Y,N,N,100
+MTGP,WisdomTree Mortgage Plus Bond Fund,Bond ETF,Mortgage Bond,Y,Y,N,N,150
+NETL,NETLease Corporate Real Estate ETF,Real Estate,Real Estate,Y,Y,N,N,200
+NUGO,Nuveen Growth Opportunities ETF,Equity Mutual Fund,Equity Growth,Y,N,N,N,130
+NUHY,Nuveen ESG High Yield Corporate Bond ETF,Bond ETF,Corporate Bond,Y,N,N,N,100
+VTIP,Vanguard Short-Term Inflation-Protected ETF,Bond ETF,TIPs,N,N,N,Y,100
